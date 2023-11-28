@@ -19,6 +19,7 @@ public class TypeCasting {
 		char m=(char)f;
 		System.out.println("Printing the integer Value:"+" "+a);
 		System.out.println("Printing the Character Value of the given integer:"+" "+m);
+		//This is called explicit TypeCasting
 		                                                                         
 		
 		
